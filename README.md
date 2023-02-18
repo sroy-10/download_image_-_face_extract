@@ -1,2 +1,6 @@
-# download_image_-_face_extract
-Download images and extract the faces
+# Download Images and Extract faces
+- Images are downloaded from the Bing search engine using the bing_image_downloader python package
+- Open-CV DNN model has been used to extract the face from the images.
+
+
+[Kaggle Dataset](https://www.kaggle.com/datasets/sroy93/bollywood-celeb-localized-face-dataset-extended)
