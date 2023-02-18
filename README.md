@@ -3,4 +3,4 @@
 - Open-CV DNN model has been used to extract the face from the images.
 
 
-[Kaggle Dataset](https://www.kaggle.com/datasets/sroy93/bollywood-celeb-localized-face-dataset-extended)
+[Dataset created using this method](https://www.kaggle.com/datasets/sroy93/bollywood-celeb-localized-face-dataset-extended)
